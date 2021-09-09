@@ -1,0 +1,8 @@
+2021-09-09 18:39:43,457 INFO [Demolog4j] - Logging information for Demolog4j
+2021-09-09 18:39:43,458 INFO [Demolog4j] - Code debugging started
+2021-09-09 18:39:43,458 INFO [Demolog4j] - This is last time warning
+2021-09-09 18:39:43,458 INFO [Demolog4j] - Error occured due to false value
+2021-09-09 18:40:11,260 INFO [Demolog4j] - Logging information for Demolog4j
+2021-09-09 18:40:11,262 INFO [Demolog4j] - Code debugging started
+2021-09-09 18:40:11,262 INFO [Demolog4j] - This is last time warning
+2021-09-09 18:40:11,262 INFO [Demolog4j] - Error occured due to false value
